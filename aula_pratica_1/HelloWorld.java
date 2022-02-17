@@ -1,5 +1,3 @@
-package aula_pratica_1;
-
 public class HelloWorld {
 
 	public static void main(String[] args) {
