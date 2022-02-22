@@ -4,6 +4,7 @@
 - [Eduardo Rodrigues Santana](https://github.com/eRodriguesSantana)
 - [Paulo Roberto do Nascimento Jr.](https://github.com/helvayne-br)
 - [Helena Siqueira Araujo](https://github.com/SAHelena)
+- [Mykaeli fernandes](https://github.com/mykaelifernandes)
 
 ## Power Classes
 Exploração das principais classes da linguagem Java.
