@@ -20,9 +20,6 @@ Exploração das principais classes da linguagem Java.
 - java.nio.file.Paths
 
 #### Documentação
-File: https://docs.oracle.com/javase/7/docs/api/java/io/File.html
-Path: https://docs.oracle.com/javase/7/docs/api/java/nio/file/Path.html
+File: https://docs.oracle.com/javase/7/docs/api/java/io/File.html<br>
+Path: https://docs.oracle.com/javase/7/docs/api/java/nio/file/Path.html<br>
 Paths: https://docs.oracle.com/javase/7/docs/api/java/nio/file/Paths.html
-
-
-
