@@ -16,9 +16,9 @@ Exploração das principais classes da linguagem Java.
 1. Realizar uma demonstração adaptando o uso dos métodos (mínimo 04) em situações do cotidiando (use a imaginação);
 
 #### Classes objeto deste trabalho
-- java.io.File
-- java.nio.file.Path
-- java.nio.file.Paths
+- java.io.File (Lucas / Mykaeli)
+- java.nio.file.Path (Eduardo / Paulo)
+- java.nio.file.Paths (Helena)
 
 #### Códigos de exemplo
 https://github.com/eRodriguesSantana/mjv_java_school/tree/main/aula_pratica_2_trabalho_power_class
