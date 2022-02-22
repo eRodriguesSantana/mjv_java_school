@@ -19,6 +19,9 @@ Exploração das principais classes da linguagem Java.
 - java.nio.file.Path
 - java.nio.file.Paths
 
+#### Códigos de exemplo
+https://github.com/eRodriguesSantana/mjv_java_school/tree/main/aula_pratica_2_trabalho_power_class
+
 #### Documentação
 File: https://docs.oracle.com/javase/7/docs/api/java/io/File.html<br>
 Path: https://docs.oracle.com/javase/7/docs/api/java/nio/file/Path.html<br>
